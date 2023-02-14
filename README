@@ -1,3 +1,20 @@
+# Metro Simulation
+
+This project simulates a running train to accommodate
+passengers arriving/departing a metro. The objective is to learn how to design and
+modularize code and work with documented libraries.
+
+# Setup
+fork the repository
+```
+git clone <https code of your repository>
+cd Metro-sim
+make MetroSim
+./MetroSim stationsFile passengersFile [commands file]
+```
+
+
+# More details
 /**********************************************************
 * HW2: Metro Simulator
 * Comp 15
