@@ -15,6 +15,9 @@ make MetroSim
 # Simulation
 <img width="285" alt="Screenshot 2023-02-14 at 12 47 16 PM" src="https://user-images.githubusercontent.com/98433990/218817020-5c697fd8-ce33-492f-a39f-e113c706f533.png">
 
+# Log of passengers movement
+<img width="517" alt="Screenshot 2023-02-14 at 12 48 48 PM" src="https://user-images.githubusercontent.com/98433990/218817378-674e2e9d-4c8e-4d20-ba34-491e5481b190.png">
+
 
 # More details
 /**********************************************************
