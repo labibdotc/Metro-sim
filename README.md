@@ -10,7 +10,7 @@ fork the repository
 git clone <https code of your repository>
 cd Metro-sim
 make MetroSim
-./MetroSim stationsFile passengersFile [commands file]
+./MetroSim stationsFile OuputLogFile [commands file]
 ```
 
 
