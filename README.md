@@ -12,6 +12,8 @@ cd Metro-sim
 make MetroSim
 ./MetroSim stationsFile OuputLogFile [commands file]
 ```
+# Simulation
+<img width="285" alt="Screenshot 2023-02-14 at 12 47 16 PM" src="https://user-images.githubusercontent.com/98433990/218817020-5c697fd8-ce33-492f-a39f-e113c706f533.png">
 
 
 # More details
